@@ -4,15 +4,12 @@ button {
   border: 1px solid #e4e4e4;
   width: 90px;
 }
+
 .wrapper {
   display: grid;
   width: 300px;
   grid-template-columns: auto auto auto auto;
   margin: 150px auto;
-}
-.result {
-  grid-column: 1/5;
-  color: white;
 }
 
 .zero {
@@ -22,6 +19,8 @@ button {
 }
 
 .result {
+  grid-column: 1/5;
+  color: white;
   height: 60px;
   display: flex;
   align-items: center;

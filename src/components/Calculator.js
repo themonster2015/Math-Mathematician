@@ -16,11 +16,11 @@ class Calculator extends React.Component {
    handleClick = (e) => {
      // eslint-disable-next-line react/no-access-state-in-setstate
      this.setState(calculate(this.state, e.target.innerText));
-     console.log(this.state);
    }
 
    render() {
      const { total, next, operation } = this.state;
+     console.log(this.state);
      return (
        <div className="wrapper">
          <div className="result">

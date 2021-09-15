@@ -7,7 +7,7 @@ class Calculator extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      total: null,
+      total: 0,
       next: null,
       operation: null,
     };
@@ -24,7 +24,7 @@ class Calculator extends React.Component {
      return (
        <div className="wrapper">
          <div className="result">
-           {(total === null) ? 0 : total}
+           {total}
            {' '}
            {operation}
            {' '}

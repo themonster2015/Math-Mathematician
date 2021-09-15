@@ -4,6 +4,8 @@
 - Make simple calculations.
 - Read a random math-related quote.
 
+![Screen Shot 2021-09-15 at 16 20 58](https://user-images.githubusercontent.com/10905837/133451393-7fd11a8b-b31b-48bc-a344-ec9022c96e04.png)
+
 
 ## Built With
 

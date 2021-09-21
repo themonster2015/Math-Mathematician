@@ -14,7 +14,7 @@
 
 ## Live demo
 
-Link will be added soon.
+[Live Demo](https://themonster2015.github.io/Math-Mathematician/#/)
 
 ## Getting Started
 

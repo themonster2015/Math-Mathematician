@@ -3,6 +3,7 @@
   margin: auto;
   justify-content: center;
 }
+
 nav > h1 {
   display: inline-block;
   font-size: xx-large;
@@ -13,11 +14,11 @@ nav > ul {
   list-style-type: none;
   float: right;
 }
+
 nav > ul > li {
   display: inline;
   padding-right: 20px;
   padding-left: 20px;
-
   border-right: 1px solid black;
 }
 
@@ -50,6 +51,7 @@ nav > ul > li:last-child {
   justify-content: flex-end;
   display: flex;
 }
+
 footer {
   position: fixed;
   bottom: 0;

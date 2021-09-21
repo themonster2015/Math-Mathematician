@@ -1,21 +1,22 @@
 button {
   padding: 20px;
-  height: 60px;
+  height: 90px;
   border: 1px solid #e4e4e4;
-  width: 90px;
+  width: 180px;
 }
 
 .wrapper {
   display: grid;
-  width: 300px;
+  width: 600px;
   grid-template-columns: auto auto auto auto;
-  margin: 150px auto;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 .zero {
   grid-column-start: 1;
   grid-column-end: 3;
-  width: 180px;
+  width: 360px;
 }
 
 .result {

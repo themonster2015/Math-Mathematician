@@ -38,7 +38,7 @@ export default function Calculator() {
       <button type="button" onClick={clickHandler} className="greyBtn">6</button>
       <button data-testid="-" type="button" onClick={clickHandler} className="orangeBtn">-</button>
 
-      <button type="button" onClick={clickHandler} className="greyBtn">1</button>
+      <button data-testid="1" type="button" onClick={clickHandler} className="greyBtn">1</button>
       <button data-testid="2" type="button" onClick={clickHandler} className="greyBtn">2</button>
       <button type="button" onClick={clickHandler} className="greyBtn">3</button>
       <button type="button" onClick={clickHandler} className="orangeBtn">+</button>

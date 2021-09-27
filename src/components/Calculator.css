@@ -1,0 +1,39 @@
+button {
+  padding: 20px;
+  height: 90px;
+  border: 1px solid #e4e4e4;
+  width: 180px;
+}
+
+.wrapper {
+  display: grid;
+  width: 600px;
+  grid-template-columns: auto auto auto auto;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.zero {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  width: 360px;
+}
+
+.result {
+  grid-column: 1/5;
+  color: white;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: grey;
+  padding-right: 10px;
+}
+
+.greyBtn {
+  background-color: lightgrey;
+}
+
+.orangeBtn {
+  background-color: orange;
+}

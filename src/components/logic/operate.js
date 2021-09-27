@@ -23,5 +23,5 @@ export default function operate(numberOne, numberTwo, operation) {
     return one.mod(two).toString();
   }
   // throw Error(`Unknown operation '${operation}'`);
-  return 'Error!';
+  return 'Error';
 }

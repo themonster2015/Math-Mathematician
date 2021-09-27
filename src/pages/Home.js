@@ -3,7 +3,7 @@ import React from 'react';
 export default function Home() {
   return (
     <div>
-      <h2>
+      <h2 data-testid="home">
         {' '}
         Welcome to our Page!
       </h2>

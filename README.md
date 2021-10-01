@@ -14,7 +14,12 @@
 
 ## Live demo
 
-[Live Demo](https://themonster2015.github.io/Math-Mathematician/#/)
+[Live Demo Github Pages](https://themonster2015.github.io/Math-Mathematician/#/)
+
+[Live Demo Netify](https://dreamy-galileo-994ce0.netlify.app/#/)
+
+[Live Demo Heroku](https://math-mathematician.herokuapp.com/#/)
+
 
 ## Getting Started
 
